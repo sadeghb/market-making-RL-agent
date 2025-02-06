@@ -1,0 +1,7 @@
+kaggle
+pandas
+stable_baselines3
+matplotlib
+gymnasium
+numpy
+shimmy
